@@ -105,7 +105,7 @@ The rest of the coding is related to the formatting of the final output and a po
 
 ### Analysis of the Refactored Script Execution Times
 
-In comparing the run times of the refactored script for [2017](https://github.com/timbialek/StockAnalysis/blob/main/Resources/VBA_Challenge_2017.png) and [2018](https://github.com/timbialek/StockAnalysis/blob/main/Resources/VBA_Challenge_2018.png) to the original script times it can be seen that the refactored script had a significant improvement in going from over .7 seconds to now just over .1 second.  This is an 85% improvement for 2017 and 86% improvement for 2018. 
+In comparing the run times of the refactored script for 2017 and 2018 to the original script times it can be seen that the refactored script had a significant improvement in going from over .7 seconds to now just over .1 second.  This is an 84% improvement for 2017 and 83% improvement for 2018. 
 
 Refactored Script Times:
 
@@ -117,7 +117,7 @@ Original Script Times:
 
 
 
->There are both advantages and disadvantages that come into play when refactoring code.  The advantage of refactoring code is that it allows you to make the code more efficient.  This can include taking fewer steps to accomplish a task, using less memory, and improving the logic of the code to make it easier for future users to read.  Often the first attempt at written code isn’t always the most efficient so refactoring can help to make the code better.  The disadvantages of refactoring can be the time it takes to perform the refactor or the new code that is added could introduce bugs into the program that then need to be fixed.  
+>There are both advantages and disadvantages to refactoring code.  The main advantage of refactoring code is that it allows you to make the code more efficient.  This can include taking fewer steps to accomplish a task, using less memory, and improving the logic of the code to make it easier for future users to read.  Often the first attempt at written code is not always the most efficient so refactoring can help to make the code better.  Some disadvantages of refactoring code is the times it to perform the refactoring of the new code and that new code could introduce bugs into the program which would then need to be fixed.  
 
 
 ### Pros and Cons of refactoring the original VBA script
@@ -127,5 +127,4 @@ Original Script Times:
 ## Resources:
 * Data Source: green_stocks.xlsx, VBA_Challenge.vbs
 * Software: Excel, VBA	
-* [Lvivity article on code refactoring](https://lvivity.com/what-is-code-refactoring#:~:text=1%20Simplified%20support%20and%20code%20updates.%20Clean%20code,what%20consequences%20these%20modifications%20will%20lead%20to.%20)
 
