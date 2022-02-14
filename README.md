@@ -116,11 +116,11 @@ Original Script Times:
 ![](https://github.com/timbialek/Stock_Analysis/blob/main/Resources/Original_Code_2017_time_stamp.PNG) ![](https://github.com/timbialek/Stock_Analysis/blob/main/Resources/Original_Code_2018_time_stamp.PNG)
 
 
+### Pros and Cons of refactoring the original VBA script
 
 >There are both advantages and disadvantages to refactoring code.  The main advantage of refactoring code is that it allows you to make the code more efficient.  This can include taking fewer steps to accomplish a task, using less memory, and improving the logic of the code to make it easier for future users to read.  Often the first attempt at written code is not always the most efficient so refactoring can help to make the code better.  Some disadvantages of refactoring code is the times it to perform the refactoring of the new code and that new code could introduce bugs into the program which would then need to be fixed.  
 
 
-### Pros and Cons of refactoring the original VBA script
 >When it comes to the refactoring of the original VBA script the refactored code enhanced the run time.  It shaved about 6 seconds off the run time which is a significant improvement.  While figuring out how to refactor the code there were several instances where I made errors that created bugs in the program for which I then had to spend additional to correct.   In the scope of this project which only reads a few thousand rows of data this might not have been an efficient use of time but if we were to apply this code to few million lines of data it would have been very worthwhile time investment.
 
 
